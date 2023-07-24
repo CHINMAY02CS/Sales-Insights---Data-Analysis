@@ -22,10 +22,13 @@
  **Database** - The database is downloaded from the internet of the company AtliQ hardware and peripherals
 
  **Data Modeling** - The data modeling is done to define tables and establish relationships between the tables.
+
  ![MODEL_VIEW](https://github.com/CHINMAY02CS/Sales-Insights---Data-Analysis/blob/main/Model.png)
 
  **Data Cleaning** - Data cleaning (ETL) is performed in the Power Query editor in Power BI.
+ 
  **Data Analysis** - Data analysis is done to convert data into meaningful data insights.
+ 
  **Power BI Data Integration** - The preprocessed and analyzed data is integrated into Power BI Report Editor to generate the latest dynamic data visualization. The dashboard is created which can generate reports of real-time data insights.
  
 
