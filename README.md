@@ -16,10 +16,11 @@
 **End result**- An automated dashboard providing quick and latest sales insights to support data-driven decisions
 **Success criteria**- Dashboard with latest sales insights, automated data gathering
 
- ### Power BI 
+ **Power BI**
  Microsoft Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence. It is directly plugged into the MySQL database. The data pipeline is created by following various data transformation processes.
  
  **Database** - The database is downloaded from the internet of the company AtliQ hardware and peripherals
+
  **Data Modeling** - The data modeling is done to define tables and establish relationships between the tables.
  ![MODEL_VIEW](https://github.com/CHINMAY02CS/Sales-Insights---Data-Analysis/blob/main/Model.png)
 
